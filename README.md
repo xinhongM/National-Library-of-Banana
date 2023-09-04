@@ -8,3 +8,13 @@
 
 
 目前为止本仓库还缺失了四卷《蕉人传》，以及《菲奥娜之诗》《班拿纳国家宪法》《班拿纳群岛行政区划地图》各一卷。
+
+
+## 当前馆藏目录：
+* [†Legend Of Intensive Care 20Unit†20200322](https://github.com/xinhongM/National-Library-of-Banana/tree/main/%E2%80%A0Legend%20Of%20Intensive%20Care%2020Unit%E2%80%A020200322%202)
+    * [三种不同的战斗力体系](https://github.com/xinhongM/National-Library-of-Banana/tree/25726b99ce0ae39c9ccdaf62bf2282acc295c959/%E2%80%A0Legend%20Of%20Intensive%20Care%2020Unit%E2%80%A020200322%202/%E4%B8%89%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B%E4%BD%93%E7%B3%BB)
+        * 拳头大陆
+        * 能力者
+        * 职业者
+    * [正文](https://github.com/xinhongM/National-Library-of-Banana/blob/25726b99ce0ae39c9ccdaf62bf2282acc295c959/%E2%80%A0Legend%20Of%20Intensive%20Care%2020Unit%E2%80%A020200322%202/ICU%20v2.0.docx)
+
